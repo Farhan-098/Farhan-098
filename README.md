@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Farhan Arshad 👋<br><br>I'm a Machine Learning and Data Analysis enthusiast passionate about working with data and building intelligent systems.<br><br>• Currently learning Machine Learning and Data Science  <br>• Skilled in Python, Pandas, NumPy, and Data Analysis  <br>• Building real-world ML and data projects  <br>• Interested in AI, automation, and data-driven solutions  <br><br>Goal: Become a professional Machine Learning Engineer
 
 
